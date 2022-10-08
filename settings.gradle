@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Android Study Jam Session 2"
+rootProject.name = "Button Responder"

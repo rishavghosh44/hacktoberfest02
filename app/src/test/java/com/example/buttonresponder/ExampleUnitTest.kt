@@ -1,4 +1,4 @@
-package com.example.androidstudyjamsession2
+package com.example.buttonresponder
 
 import org.junit.Test
 
